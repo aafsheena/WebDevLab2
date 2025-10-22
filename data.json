@@ -1,0 +1,25 @@
+{
+    "chart_title": "Aafsheen's Dream Destinations",
+    "data_points": [
+        {
+            "label": "Japan",
+            "value": 10
+        },
+        {
+            "label": "Spain", 
+            "value": 8
+        },
+        {
+            "label": "Morocco",
+            "value": 7
+        },
+        {
+            "label": "Greece",
+            "value": 6
+        },
+        {
+            "label": "Korea", 
+            "value": 5
+        }
+    ]
+}
